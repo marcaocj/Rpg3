@@ -139,7 +139,7 @@ public class GameManager : MonoBehaviour
     {
         public string characterId;
         public string name;
-        public string @class;
+        public string classe;
         public string race;
         public int level;
         public float posX;
@@ -191,4 +191,5 @@ public class GameManager : MonoBehaviour
         public string targetId;
         public string targetType;
     }
+
 }
